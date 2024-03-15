@@ -288,7 +288,7 @@ export const RESUME_DATA = {
         "C++",
         "CPSC 350",
       ],
-      description: "This program 'simulates' a game of Super Mario Bros through the terminal with different symbols.",
+      description: "This program simulates what is carried out in a world that consists of a fixed number of levels. Mario must navigate the levels, encountering enemies and power ups, and collecting coins, before engaging a boss to move onto the next level. A general outline of the program follows below.",
       logo: "",
       link: {
         label: "GitHub",
