@@ -118,7 +118,7 @@ export default function Page() {
             );
           })}
         </Section>
-          <Section>
+        <Section>
           <h2 className="text-xl font-bold">Work Experience</h2>
           {RESUME_DATA.work.map((work) => {
             return (
