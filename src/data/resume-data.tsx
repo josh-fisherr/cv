@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Hi! Welcome to my portfolio! Take a look at my work experience and recent projects down below. I am a passionate and hard-working woman in STEM and take pride in all my work. I am currently a student at Chapman University in the Fowler School of Engineering earning my Bachelor's Degree in Software Engineering and a minor in Information Security and Policy (Cybersecurity). Additionally, I plan on completing my Master's Degree in a 4+1 program. Alongside my academics, I work multiple jobs inside the Fowler School of Engineering and am also a part of multiple clubs, organizations/associations, like the Society of Women Engineers. Empowering others through my hard work is truly what I strive for and is what I hope you see on this page. Thank you for visiting, and feel free to reach out or connect with me on my socials above!",
   avatarUrl: "https://avatars.githubusercontent.com/u/115668190?v=4",
-  //personalWebsiteUrl: "",
+  personalWebsiteUrl: "",
   contact: {
     email: "kalrichardson@chapman.edu",
     tel: "+3109384274",
