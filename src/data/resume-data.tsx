@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       start: "Dec 2022",
       end: "Present",
       description:
-        "Operating and mainting 2 different models of Boston Dynamics Robot Dogs. Opertating on different attachments and developing GUI from SDK in Python. Presenting at graduation, attending events for photo-ops, and displaying for content. Training other employees on controls.",
+        "Operating and maintaining two models of Boston Dynamics Robot Dogs. Performing regular software updates, hardware inspections, and repairs. Managing various attachments like cameras, sensors, and robotic arms to improve their functionality and allow for student and faculty use. Utilizing the Boston Dynamics SDK in Python, programming a user-friendly interface (GUI) for easy control and monitoring. Hosting workshops with updated code for interested students. Training colleagues on robot operations and presenting projects at events, showcasing the robots for promotional content, photo opportunities, and program development.",
     },
     {
       company: "Dean Suite Student Employee/Assistant",
