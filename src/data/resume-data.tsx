@@ -84,7 +84,7 @@ export const RESUME_DATA = {
       start: "Jan 2024",
       end: "May 2024",
       description:
-        "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs, assisted in design components and decisions along with ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline."},
+        "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs. Assisted in design components and decisions, ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline."},
       {
 
       company: "Boston Dynamics SPOT Robot Operator/Dev",
