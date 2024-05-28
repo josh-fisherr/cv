@@ -161,7 +161,7 @@ export const RESUME_DATA = {
       start: "July 2019",
       end: "Aug 2019",
       description: 
-        "Collaborating and working as a design engineer with fellow interns and employees alike. Presenting designs and plans for our project and improving certain areas of a part/case at Pelican. ",
+        "Collaborated and worked as a design engineer with fellow interns and employees alike. Presented designs and plans for our project and improved certain areas of a part/case at Pelican. Reported out to engineers and worked hand in hand with other employees.",
     },
     {
       company: "External Coordinator & Graphic Designer",
