@@ -139,7 +139,7 @@ export const RESUME_DATA = {
       start: "Jul 2023",
       end: "Aug 2023",
       description: 
-        "Created curriculum and program layout. Hosted weekly workshops and courses for middle/high school students around the Chapman area and led the soldering section of the workshop where students made an Arduino Obstacle Avoiding Car. Students soldered different pins and electronic components onto their board and were able to take home a working car!",
+        "Created curriculum and program layout. Hosted weekly workshops and courses for 20 middle/high school students around the Chapman area and led the soldering section of the workshop where students made an Arduino Obstacle Avoiding Car. Students soldered different pins and electronic components onto their board and were able to take home a working car!",
     },
     {
       company: "Campus Store Ambassador",
