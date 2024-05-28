@@ -117,7 +117,7 @@ export const RESUME_DATA = {
       start: "Aug 2022",
       end: "Present",
       description: 
-        "Working as a student employee at Chapman University’s Fowler School of Engineering Makerspace. Trained on 50+ different machines and equipment in 3 separate labs. Managing inventory and customer service for all Chapman students, staff and faculty. Leading workshops and events for students to learn and create in the spaces.",        
+        "Working as a student employee at Chapman University’s Fowler School of Engineering Makerspace. Trained on 50+ different machines and equipment (various types of 3D printers, laser cutters, PCB routers, CNC-mills, and more) in 3 separate labs including the Prototyping Lab, Manufacturing Lab, and Tech Shop. Manage inventory and customer service for all Chapman students, staff and faculty. Lead workshops and events for students to learn and create in the spaces.",        
     },
     {
       company: "Peer Advisor",
