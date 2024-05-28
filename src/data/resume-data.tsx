@@ -82,9 +82,9 @@ export const RESUME_DATA = {
       title: "Chapman Fowler School of Engineering",
       logo: "",
       start: "Jan 2024",
-      end: "Present",
+      end: "April 2024",
       description:
-        "Managing a group of students to build our own arcade game from the ground up in a CPSC 298 class with Jon Humphreys. Leading 5 different teams including 3D modeling, Art/Lighting, Fabrication/Assembly, Electrionics, and Microcontrollers. Leading weekly debriefs, assisting in design components and descisions along with ordering parts and monitoring overall progress to keep on track of a 4 month timeline."},
+        "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs, assisted in design components and decisions along with ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline."},
       {
 
       company: "Boston Dynamics SPOT Robot Operator/Dev",
