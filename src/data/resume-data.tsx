@@ -142,17 +142,6 @@ export const RESUME_DATA = {
         "Created curriculum and program layout. Hosted weekly workshops and courses for 20 middle/high school students around the Chapman area and led the soldering section of the workshop where students made an Arduino Obstacle Avoiding Car. Students soldered different pins and electronic components onto their board and were able to take home a working car!",
     },
     {
-      company: "Campus Store Ambassador",
-      link: "https://sldr.page.link/nQ2v",
-      badges: ["Remote"],
-      title: "Follett",
-      logo: "",
-      start: "Sept 2023",
-      end: "Present",
-      description: 
-        "Represent and promote sales for the Follet Campus Store located in Argyros Forum on Chapman campus. Create content catered towards products and direct students and more to the main website.",
-    },
-    {
       company: "Design Engineering Intern",
       link: "https://www.pelican.com/us/en/",
       badges: ["On Site Internship"],
@@ -164,7 +153,29 @@ export const RESUME_DATA = {
         "Collaborated and worked as a design engineer with fellow interns and employees alike. Presented designs and plans for our project and improved certain areas of a part/case at Pelican. Reported out to engineers and executive team. Worked hand in hand with other employees.",
     },
     {
-      company: "External Coordinator & Graphic Designer",
+      company: "Campus Store Ambassador",
+      link: "https://sldr.page.link/nQ2v",
+      badges: ["Remote"],
+      title: "Follett",
+      logo: "",
+      start: "Sept 2023",
+      end: "Present",
+      description: 
+        "Represent and promote sales for the Follet Campus Store located in Argyros Forum on Chapman campus. Create content catered towards products and direct students and more to the main website.",
+    },
+    {
+      company: "Vice President",
+      link: "https://www.instagram.com/swe.cu/?hl=en",
+      badges: ["Board Member"],
+      title: "Society of Women Engineers (SWE) Chapman Section",
+      logo: "",
+      start: "Aug 2022",
+      end: "Present",
+      description: 
+        "Serving as the Vice President for the Chapman Section and hosting events alongside the rest of our board. Representing SWE through attending talks, conferences, and other workshops/events. Aspire ✿ Advance ✿ Achieve",
+    },
+    {
+      company: "Vice President - External",
       link: "https://www.instagram.com/chapmancsclub/?hl=en",
       badges: ["Board Member"],
       title: "Chapman Computer Science Club",
@@ -172,7 +183,7 @@ export const RESUME_DATA = {
       start: "Aug 2023",
       end: "Present",
       description: 
-        "Serving as the External Coordinator for the club and creating a cohesive environment for members. Designing social posts and flyers for more engagement/attendance.",
+        "Serving as the Vice President - External for the club and creating a cohesive environment for members. Designing social posts and flyers for more engagement/attendance. Hosting various events and finding hackathons for us to attend.",
     },
     {
       company: "Social Media Manager",
@@ -184,17 +195,6 @@ export const RESUME_DATA = {
       end: "Present",
       description: 
         "Serving as the Social Media Manager for the club and creating social posts and designs for stickers for more members.",
-    },
-    {
-      company: "Treasurer",
-      link: "https://www.instagram.com/swe.cu/?hl=en",
-      badges: ["Board Member"],
-      title: "Society of Women Engineers (SWE) Chapman Section",
-      logo: "",
-      start: "Aug 2022",
-      end: "Present",
-      description: 
-        "Serving as the Treasurer for the Chapman Section and hosting events alongside the rest of our board. Representing SWE through attending talks, conferences, and other workshops/events. Aspire ✿ Advance ✿ Achieve",
     },
     {
       company: "FIRST Robotics Mentor",
@@ -225,10 +225,12 @@ export const RESUME_DATA = {
     "Java",
     "JavaScript",
     "Linux OS",
-    "C/C++",
+    "C++",
     "Vim",
     "Vite",
     "Next.js",
+    "Vercel",
+    "Netlify",
     "QGIS",
     "Swift",
     "Scratch",
@@ -278,8 +280,25 @@ export const RESUME_DATA = {
       description: "Collaborated on creating an easier way to program the Boston Dynamics dogs in the Makerspace. Designed and hosted a workshop focused on teaching students basic SPOT Programming and how to connect to and control the robot dog.",
       logo: "",
       link: {
-        label: "GitHub",
+        label: "GitHub Repo",
         href: "https://github.com/kalrich/SPOT-Workshop",
+      },
+    },
+    {
+      title: "KardioKeeper",
+      techStack: [
+        "TypeScript",
+        "JavaScript",
+        "CSS",
+        "Clerk API",
+        "Notion API",
+        "Netlify",
+      ],
+      description: "Final Project for Web Engineering class. KardioKeeper allows users to log in with their wanted credentials to our site and access different pages to track their workout routine for a certain day, week, etc. Took on a Notion feel.",
+      logo: "",
+      link: {
+        label: "GitHub Repo",
+        href: "https://github.com/kalrich/KardioKeeper",
       },
     },
     {
@@ -291,7 +310,7 @@ export const RESUME_DATA = {
       description: "This program simulates what is carried out in a world that consists of a fixed number of levels. Mario must navigate the levels, encountering enemies and power ups, and collecting coins, before engaging a boss to move onto the next level. A general outline of the program follows below.",
       logo: "",
       link: {
-        label: "GitHub",
+        label: "GitHub Repo",
         href: "https://github.com/kalrich/MarioDataStructures",
       },
     },
@@ -306,11 +325,11 @@ export const RESUME_DATA = {
         "Ultimaker 3D Printers",
         "Arduino",
       ],
-      description: "Currently working with a team of 6 to build a completely 3D printed vending machine robot for the Chapman Unviersity Campus along with a working app for orders and tracking. 3D Modeled the chassis and case for the robot as well as collaborated on the Figma design for the UI of our app.",
+      description: "Built a working prototype of our Mobile Vending Machine Robot Made for You: YOBOT. Robot has three different levels: top is for snacks, where it dispenses different types of healthy snacks like nuts, granola bars, and more, depending on what the user wants; middle is for drinks, where users can purchase the type of beverage they want; bottom is where all the electronics are stored: wheels, motors, and more. Final prototype was laser cut out of wood and assembled by me and my team. Additionally, we programmed the working functions of the app we originally designed in a wireframe on Figma. Students and staff are excited to see it actually working, and my team and I will be continuing our work on it soon.",
       logo: "",
       link: {
-        label: "Instagram",
-        href: "https://www.instagram.com/chapmanyobot/?hl=en",
+        label: "LinkedIn Post",
+        href: "https://www.linkedin.com/posts/kalin-richardson-11b55a18a_last-week-i-concluded-my-grand-challenges-activity-7197800217847422976-0v2G?utm_source=share&utm_medium=member_desktop",
       },
     },
     {
@@ -319,11 +338,11 @@ export const RESUME_DATA = {
         "CPSC 298",
         "Project Manager",
       ],
-      description: "Currently managing a group of students with subteams including 3D Modeling, Art/Lighting, Electrionics, Fabrication/Assembly, and Microcontrollers. Our end goal is to have a functional arcade game by the end of the semester, which means that we are making the arcade from scratch in 4 months. ",
+      description: "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs. Assisted in design components and decisions, ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline.",
       logo: "",
       link: {
-        label: "",
-        href: "",
+        label: "LinkedIn Post",
+        href: "https://www.linkedin.com/feed/update/urn:li:activity:7203092426528333824/",
       },
     },
     {
