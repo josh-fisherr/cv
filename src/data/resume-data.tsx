@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Chapman University @ Orange, CA",
   locationLink: "https://maps.app.goo.gl/9wEgD3dtC7e1aaj57",
   about:
-    "Second Year Software Engineer | Makerspace Student Employee | Dean Suite Communications Assistant | Campus Store Ambassador",
+    "Third Year Software Engineer @ Chapman Fowler School of Engineering | Break Through Tech AI Fellow @ UCLA | Makerspace/Dean Suite Student Employee | YOBOT Founder | Corgicade Project Manager ",
   summary:
     "Hi! Welcome to my portfolio! Take a look at my work experience and recent projects down below. I am a passionate and hard-working woman in STEM and take pride in all my work. I am currently a student at Chapman University in the Fowler School of Engineering earning my Bachelor's Degree in Software Engineering and a minor in Information Security and Policy (Cybersecurity). Additionally, I plan on completing my Master's Degree in a 4+1 program. Alongside my academics, I work multiple jobs inside the Fowler School of Engineering and am also a part of multiple clubs, organizations/associations, like the Society of Women Engineers. Empowering others through my hard work is truly what I strive for and is what I hope you see on this page. Thank you for visiting, and feel free to reach out or connect with me on my socials above!",
   avatarUrl: "https://avatars.githubusercontent.com/u/115668190?v=4",
@@ -96,6 +96,17 @@ export const RESUME_DATA = {
       end: "Present",
       description:
         "Operating and maintaining two models of Boston Dynamics Robot Dogs. Performing regular software updates, hardware inspections, and repairs. Managing various attachments like cameras, sensors, and robotic arms to improve their functionality and allow for student and faculty use. Utilizing the Boston Dynamics SDK in Python, programming a user-friendly interface (GUI) for easy control and monitoring. Hosting workshops with updated code for interested students. Training colleagues on robot operations and presenting projects at events, showcasing the robots for promotional content, photo opportunities, and program development.",
+    },
+    {
+      company: "Break Through Tech AI/ML Fellow",
+      link: "https://www.linkedin.com/in/kalin-richardson-11b55a18a/details/experience/",
+      badges: ["Hybrid"],
+      title: "Breakthrough Tech AI @ UCLA/Cornell",
+      logo: "",
+      start: "April 2024",
+      end: "Present",
+      description:
+        "Joined a cohort of 250 women, nonbinary, and other underrepresented students from across Southern California to learn the technical skills we need to launch our careers in AI and machine learning!",
     },
     {
       company: "Dean Suite Student Employee/Assistant",
