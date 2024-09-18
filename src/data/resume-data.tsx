@@ -60,33 +60,37 @@ export const RESUME_DATA = {
       end: "May 2026",
     },
     {
-      school: "Bishop Montgomery High School",
-      link: "https://www.bmhs-la.org/",
-      degree: "",
-      start: "Aug 2021",
-      end: "May 2022",
-    },
-    {
-      school: "Saint Joseph High School",
-      link: "https://www.sj-jester.org/",
-      degree: "",
-      start: "Aug 2018",
-      end: "May 2021",
+      school: "Cornell University",
+      link: "https://www.linkedin.com/posts/kalin-richardson-11b55a18a_cornell-univ-machine-learning-foundations-activity-7238203519961292800-GWU_?utm_source=share&utm_medium=member_desktop",
+      degree: "Machine Learning Foundations Certificate",
+      start: "May 2024",
+      end: "July 2024",
     },
   ],
   work: [
-    {
-      company: "Project Manager",
-      link: "https://www.linkedin.com/in/kalin-richardson-11b55a18a/details/experience/",
-      badges: ["On Site"],
-      title: "Chapman Fowler School of Engineering",
-      logo: "",
-      start: "Jan 2024",
-      end: "May 2024",
-      description:
-        "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs. Assisted in design components and decisions, ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline."},
       {
-
+      company: "AI Studio Intern",
+      link: "",
+      badges: ["On Site"],
+      title: "Yardsworth",
+      logo: "",
+      start: "Aug 2024",
+      end: "Present",
+      description:
+        "Collaborating on a project with other AI Studio interns to solve our given challenge: "use AI image processing to study satellite imagery of houses across California (or key cities), identifying which ones have flat & empty backyard land to build additional housing.",
+    },
+      {
+      company: "Pre-Intern",
+      link: "",
+      badges: ["On Site"],
+      title: "Ingram Micro",
+      logo: "",
+      start: "June 2024",
+      end: "July 2024",
+      description:
+        "Pilot group of Pre-Interns for the company starting with the first step in the pipeline of the Early Careers Program. Joined Ingram Micro for a 6-week Pre-Internship. Engaged with experts from various areas of Global Platform Technology, created a feature for XVANTAGE customer experience, connected with and presented to the board of employees, and more!",
+    },
+      {
       company: "Boston Dynamics SPOT Robot Operator/Dev",
       link: "https://www.linkedin.com/posts/kalin-richardson-11b55a18a_this-past-week-i-hosted-a-spot-robot-dog-activity-7169915876274585600-0kby?utm_source=share&utm_medium=member_desktop",
       badges: ["On Site"],
@@ -131,6 +135,17 @@ export const RESUME_DATA = {
         "Working as a student employee at Chapman University’s Fowler School of Engineering Makerspace. Trained on 50+ different machines and equipment (various types of 3D printers, laser cutters, PCB routers, CNC-mills, and more) in 3 separate labs including the Prototyping Lab, Manufacturing Lab, and Tech Shop. Manage inventory and customer service for all Chapman students, staff and faculty. Lead workshops and events for students to learn and create in the spaces.",        
     },
     {
+      company: "Project Manager",
+      link: "https://www.linkedin.com/in/kalin-richardson-11b55a18a/details/experience/",
+      badges: ["On Site"],
+      title: "Chapman Fowler School of Engineering",
+      logo: "",
+      start: "Jan 2024",
+      end: "May 2024",
+      description:
+        "Project Managed eighteen students to build our own arcade machine from the ground up, ranging from CNC-milling wood and other fabrication, creating artwork and UI, coding LED displays, wire management, and more. Led five sub-teams, including 3D Modeling, Art/Lighting, Fabrication/Assembly, Electronics, and Microcontrollers, along with weekly debriefs. Assisted in design components and decisions, ordered parts and monitored overall progress to deliver on time and on budget for our four-month semester timeline."
+    },
+    {
       company: "Peer Advisor",
       link: "https://www.linkedin.com/in/kalin-richardson-11b55a18a/details/experience/",
       badges: ["On Site"],
@@ -164,15 +179,15 @@ export const RESUME_DATA = {
         "Collaborated and worked as a design engineer with fellow interns and employees alike. Presented designs and plans for our project and improved certain areas of a part/case at Pelican. Reported out to engineers and executive team. Worked hand in hand with other employees.",
     },
     {
-      company: "Campus Store Ambassador",
-      link: "https://sldr.page.link/nQ2v",
-      badges: ["Remote"],
-      title: "Follett",
+      company: "President",
+      link: "https://www.instagram.com/chapmanrobotics/?hl=en",
+      badges: ["Board Member"],
+      title: "Chapman Robotics",
       logo: "",
-      start: "Sept 2023",
+      start: "Aug 2024",
       end: "Present",
       description: 
-        "Represent and promote sales for the Follet Campus Store located in Argyros Forum on Chapman campus. Create content catered towards products and direct students and more to the main website.",
+        "Serving as the new president of Chapman Robotics to improve the view of robotics at Chapman.",
     },
     {
       company: "Vice President",
@@ -195,17 +210,6 @@ export const RESUME_DATA = {
       end: "Present",
       description: 
         "Serving as the Vice President - External for the club and creating a cohesive environment for members. Designing social posts and flyers for more engagement/attendance. Hosting various events and finding hackathons for us to attend.",
-    },
-    {
-      company: "Social Media Manager",
-      link: "https://www.instagram.com/chapmanrobotics/?hl=en",
-      badges: ["Board Member"],
-      title: "Chapman Robotics",
-      logo: "",
-      start: "Aug 2023",
-      end: "Present",
-      description: 
-        "Serving as the Social Media Manager for the club and creating social posts and designs for stickers for more members.",
     },
     {
       company: "FIRST Robotics Mentor",
@@ -339,8 +343,32 @@ export const RESUME_DATA = {
       description: "Built a working prototype of our Mobile Vending Machine Robot Made for You: YOBOT. Robot has three different levels: top is for snacks, where it dispenses different types of healthy snacks like nuts, granola bars, and more, depending on what the user wants; middle is for drinks, where users can purchase the type of beverage they want; bottom is where all the electronics are stored: wheels, motors, and more. Final prototype was laser cut out of wood and assembled by me and my team. Additionally, we programmed the working functions of the app we originally designed in a wireframe on Figma. Students and staff are excited to see it actually working, and my team and I will be continuing our work on it soon.",
       logo: "",
       link: {
-        label: "LinkedIn Post",
-        href: "https://www.linkedin.com/posts/kalin-richardson-11b55a18a_last-week-i-concluded-my-grand-challenges-activity-7197800217847422976-0v2G?utm_source=share&utm_medium=member_desktop",
+        label: "Wireframe",
+        href: "https://www.figma.com/file/GyuNUguIlWlwg3zWLNgBIR/YoBot-App",
+      },
+    },
+    {
+      title: "Feature Design + Platform Redesign for XVANTAGE X4C @ Ingram Micro",
+      techStack: [
+        "Figma",
+      ],
+      description: "Designed features for the XVANTAGE X4C Platform and redesigned certain dashboard and product listing elements. Utilized Figma to create and wire all features together for a working platform design.",
+      logo: "",
+      link: {
+        label: "Presentation",
+        href: "https://www.linkedin.com/in/kalin-richardson-11b55a18a/details/projects/1723585073020/single-media-viewer?type=DOCUMENT&profileId=ACoAACyTdScBacajN7LvZeW68PG-Cxba-9QKy0M&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BZMszxRHYSder0xLKBK2A9w%3D%3D",
+      },
+    },
+      {
+      title: "Mental Health/Journaling App UI",
+      techStack: [
+        "Figma",
+      ],
+      description: "Created UI for a journaling app including self-well-being tracking, messaging between users, mindful timers, and more.",
+      logo: "",
+      link: {
+        label: "Wireframe",
+        href: "https://www.figma.com/file/xGb9NTbvmwRa5nw659sEBn/HCI-Project",
       },
     },
     {
