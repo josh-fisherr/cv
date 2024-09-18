@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       {
       company: "AI Studio Intern",
       link: "",
-      badges: ["On Site"],
+      badges: ["Hybrid"],
       title: "Yardsworth",
       logo: "",
       start: "Aug 2024",
