@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       start: "Aug 2024",
       end: "Present",
       description:
-        "Collaborating on a project with other AI Studio interns to solve our given challenge: "use AI image processing to study satellite imagery of houses across California (or key cities), identifying which ones have flat & empty backyard land to build additional housing.",
+        "Collaborating on a project with other AI Studio interns to solve our given challenge: use AI image processing to study satellite imagery of houses across California (or key cities), identifying which ones have flat & empty backyard land to build additional housing.",
     },
       {
       company: "Pre-Intern",
