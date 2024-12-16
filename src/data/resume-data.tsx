@@ -9,10 +9,10 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Joshua Fisher",
+  initials: "JF",
+  location: "Orange, CA",
+  locationLink: "https://www.google.com/maps/place/Orange",
   about:
     "Detail-oriented Full Stack Engineer dedicated to building high-quality products.",
   summary: (
